@@ -32,7 +32,7 @@ Neste repositório vou replicar tudo que estou aprendendo e compartilhar com a c
 Fique a vontade para acessar, visualizar, clonar e utilizar o que estiver disponível. Seja muito bem-vindo(a)!
 
 ## Últimas experiências profissionais
----
+
 
 ### RN Saúde - Coordenador de T.I.
 
