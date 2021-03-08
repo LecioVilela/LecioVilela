@@ -32,6 +32,6 @@ Neste repositório vou replicar tudo que estou aprendendo e compartilhar com a c
 Fique a vontade para acessar, visualizar, clonar e utilizar o que estiver disponível. Seja muito bem-vindo(a)!
 
 ---
-Caso deseje entrar em contato, fique a vontade para me enviar um e-mail no **lecio.vilela@yahoo.com** e também pode saber um pouco mais sobre mim, com uma interface melhor no [meu Linkedin](https://www.linkedin.com/in/l%C3%A9cio-vilela/)
+Caso deseje entrar em contato, fique a vontade para me enviar um e-mail no **lecio.vilela@yahoo.com** e também pode saber um pouco mais sobre mim, no [meu Linkedin](https://www.linkedin.com/in/l%C3%A9cio-vilela/)
 
 
