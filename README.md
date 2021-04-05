@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 Prazer, vou falar um pouco ao meu respeito. Atualmente sou estudante de Análise e Desenvolvimento de Sistemas e sou profissional da Tecnologia da Informação desde os meus 18 anos. Tenho estudado muito a respeito de desenvolvimento Web, aplicando as tecnologias HTML, CSS e Javascript. Hoje estou buscando uma oportunidade na área para poder aplicar meus conhecimentos e aprender cada dia mais.
 
-Neste meu Github, vou replicar tudo que estou aprendendo e compartilhar com a comunidade.
+Neste meu GitHub, vou replicar tudo que estou aprendendo e compartilhar com a comunidade.
 
 Fique a vontade para acessar, visualizar, clonar e utilizar o que estiver disponível. Seja muito bem-vindo(a)!
 
