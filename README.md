@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ` código de alguma lingaguem que queira exemplificar `
 -->
 
-# Olá, aqui é o Lécio Vilela 👋
+# Seja muito bem-vindo(a)! 👋
 
-Prazer, vou falar um pouco ao meu respeito. Atualmente sou estudante de Análise e Desenvolvimento de Sistemas e sou profissional da Tecnologia da Informação desde os meus 18 anos. Tenho estudado muito a respeito de desenvolvimento Web, aplicando as tecnologias HTML, CSS e Javascript. Hoje estou buscando uma oportunidade na área para poder aplicar meus conhecimentos e aprender cada dia mais.
+Profissional da Tecnologia da Informação desde os meus 18 anos. Tomei a decisão de me tornar um desenvolvedor front-end. Colocando em prática a meta, aplicando as tecnologias HTML, CSS e Javascript. Hoje estou buscando uma oportunidade na área para poder aplicar meus conhecimentos e aprender cada dia mais e me tornar um grande desenvolvedor front-end. 
 
 Neste meu GitHub, vou replicar tudo que estou aprendendo e compartilhar com a comunidade.
 
