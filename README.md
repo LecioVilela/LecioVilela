@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 # Seja muito bem-vindo(a)! 👋
 
-Profissional da Tecnologia da Informação desde os meus 18 anos. Tomei a decisão de me tornar um desenvolvedor front-end. Colocando em prática a meta, aplicando as tecnologias HTML, CSS e Javascript. Hoje estou buscando uma oportunidade na área para poder aplicar meus conhecimentos e aprender cada dia mais e me tornar um grande desenvolvedor front-end. 
+Profissional da Tecnologia da Informação desde os meus 18 anos. Tomei a decisão de me tornar um desenvolvedor. Colocando em prática, aplicando as tecnologias. Hoje estou buscando uma oportunidade na área para poder aplicar meus conhecimentos e aprender cada dia mais. 
 
 Neste meu GitHub, vou replicar tudo que estou aprendendo e compartilhar com a comunidade.
 
