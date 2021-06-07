@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 
 # Seja muito bem-vindo(a)! 👋
 
-Profissional da Tecnologia da Informação desde os meus 18 anos. Tomei a decisão de me tornar um desenvolvedor. Colocando em prática, aplicando as tecnologias. Hoje estou buscando uma oportunidade na área para poder aplicar meus conhecimentos e aprender cada dia mais. 
+Profissional da Tecnologia da Informação desde os meus 18 anos.
+
+Hoje atuando como Desenvolvedor Back-End, utilizando a plataforma .NET e SQL Server.
 
 Neste meu GitHub, vou replicar tudo que estou aprendendo e compartilhar com a comunidade.
 
