@@ -31,9 +31,9 @@ Hoje atuando como Desenvolvedor Back-End, utilizando a plataforma .NET e SQL Ser
 
 Neste meu GitHub, vou replicar tudo que estou aprendendo e compartilhar com a comunidade.
 
-Fique a vontade para acessar, visualizar, clonar e utilizar o que estiver disponível. Seja muito bem-vindo(a)!
+Fique a vontade para acessar, visualizar, clonar e utilizar o que estiver disponível. Bora codar?
 
 ---
-Caso deseje entrar em contato, fique a vontade para me enviar um e-mail no **lecio.vilela@yahoo.com** e também pode saber um pouco mais sobre mim, no [meu Linkedin](https://www.linkedin.com/in/l%C3%A9cio-vilela/)
+Caso deseje entrar em contato, fique a vontade para me enviar um e-mail no **l3c1oo@gmail.com** e também pode saber um pouco mais sobre mim, no [meu Linkedin](https://www.linkedin.com/in/l%C3%A9cio-vilela/)
 
 
