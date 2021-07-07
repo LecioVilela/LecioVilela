@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[seu link](https://www.linkedin.com/in/l%C3%A9cio-vilela/)
+[seu link](https://www.linkedin.com)
 # são usadas para determinar titulos, os níveis vão até ######
 * itálico 
 ** negrito
