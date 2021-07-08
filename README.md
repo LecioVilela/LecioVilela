@@ -95,7 +95,7 @@ Hoje atuando como Desenvolvedor Back-End, utilizando a plataforma .NET e SQL Ser
 </a>
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Lécio Vilela](https://img.shields.io/badge/-MeuLinkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link)](www.linkedin.com/in/leciovilela)
+[![Linkedin: Lécio Vilela](https://img.shields.io/badge/-MeuLinkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/leciovilela)](https://www.linkedin.com/in/leciovilela)
 [![GitHub Lécio Vilela]( https://img.shields.io/github/followers/LecioVilela?label=follow&style=social)](https://github.com/LecioVilela)
 
 
