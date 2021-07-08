@@ -63,9 +63,32 @@ Profissional da Tecnologia da Informação desde os meus 18 anos.
 
 Hoje atuando como Desenvolvedor Back-End, utilizando a plataforma .NET e SQL Server.
 
-Neste meu GitHub, vou replicar tudo que estou aprendendo e compartilhar com a comunidade.
+**Tecnologias:**
+  ![C#](https://img.shields.io/badge/--333333?logo=csharp&style=flat&logoColor=white)
+  ![.NET](https://img.shields.io/badge/-.NET-333333?logo=windows&style=flat&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6)
+  ![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=microsoftsqlserver)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+**Utilidades:**
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+**DevOps:**
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![GitKraken](https://img.shields.io/badge/-GitKraken-333333?style=flat&logo=gitkraken)
+**Ferramentas de Desenvolvimento:**
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=9400d3)
 
-Fique a vontade para acessar, visualizar, clonar e utilizar o que estiver disponível. Bora codar?
+<a href="https://github.com/LecioVilela">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LecioVilela&theme=dark&show_icons=true" />
+</a>
+
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin: David Santos](https://img.shields.io/badge/-MeuLinkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/davidsants)](www.linkedin.com/in/leciovilela)
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/LecioVilela?label=follow&style=social)](https://github.com/LecioVilela)
 
 ---
 Caso deseje entrar em contato, fique a vontade para me enviar um e-mail no **l3c1oo@gmail.com** e também pode saber um pouco mais sobre mim, no [meu Linkedin](https://www.linkedin.com/in/leciovilela/)
