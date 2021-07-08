@@ -63,6 +63,7 @@ Profissional da Tecnologia da Informação desde os meus 18 anos.
 
 Hoje atuando como Desenvolvedor Back-End, utilizando a plataforma .NET e SQL Server.
 
+---
 **Tecnologias:**
 
   ![C#](https://img.shields.io/badge/--333333?logo=csharp&style=flat&logoColor=white)
@@ -94,10 +95,7 @@ Hoje atuando como Desenvolvedor Back-End, utilizando a plataforma .NET e SQL Ser
 </a>
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: David Santos](https://img.shields.io/badge/-MeuLinkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/davidsants)](www.linkedin.com/in/leciovilela)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/LecioVilela?label=follow&style=social)](https://github.com/LecioVilela)
-
----
-Caso deseje entrar em contato, fique a vontade para me enviar um e-mail no **l3c1oo@gmail.com** e também pode saber um pouco mais sobre mim, no [meu Linkedin](https://www.linkedin.com/in/leciovilela/)
+[![Linkedin: Lécio Vilela](https://img.shields.io/badge/-MeuLinkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/leciovilela)](www.linkedin.com/in/leciovilela)
+[![GitHub Lécio Vilela]( https://img.shields.io/github/followers/LecioVilela?label=follow&style=social)](https://github.com/LecioVilela)
 
 
