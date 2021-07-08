@@ -64,6 +64,7 @@ Profissional da Tecnologia da Informação desde os meus 18 anos.
 Hoje atuando como Desenvolvedor Back-End, utilizando a plataforma .NET e SQL Server.
 
 **Tecnologias:**
+
   ![C#](https://img.shields.io/badge/--333333?logo=csharp&style=flat&logoColor=white)
   ![.NET](https://img.shields.io/badge/-.NET-333333?logo=windows&style=flat&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -73,22 +74,24 @@ Hoje atuando como Desenvolvedor Back-End, utilizando a plataforma .NET e SQL Ser
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 **Utilidades:**
+
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 **DevOps:**
+
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![GitKraken](https://img.shields.io/badge/-GitKraken-333333?style=flat&logo=gitkraken)
 
 **Ferramentas de Desenvolvimento:**
+
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=9400d3)
-  
+
 
 <a href="https://github.com/LecioVilela">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LecioVilela&theme=dark&show_icons=true" />
 </a>
-
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: David Santos](https://img.shields.io/badge/-MeuLinkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/davidsants)](www.linkedin.com/in/leciovilela)
